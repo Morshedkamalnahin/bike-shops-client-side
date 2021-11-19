@@ -1,0 +1,11 @@
+.dash-menu{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    margin-left: 20px;
+}
+.dash-menuLink{
+    text-decoration: none;
+    color: navy;
+    margin: 8px 0px;
+}

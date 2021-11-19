@@ -1,0 +1,6 @@
+@media only screen and (max-width:668px) {
+    .review-section{
+        display: flex;
+        flex-direction: column;
+    }
+}

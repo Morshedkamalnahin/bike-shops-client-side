@@ -1,0 +1,12 @@
+.logIn-btn{
+    border: 2px solid #313c90;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 5px 15px !important;
+    margin-top: 4px;
+    transition: 0.6s ease-in;
+}
+.logIn-btn:hover{
+    background-color: #313c90;
+    color: white !important;
+}
