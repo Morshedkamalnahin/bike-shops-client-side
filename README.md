@@ -8,7 +8,7 @@
 <li>This website is fully responsive</li>
 <li>Here's the managed data by Context</li>
 <li>This site authentication system is firebase</li>
-<li>User when visited the website he can see many types of car</li>
+<li>User when visited the website he can see many types of bike</li>
 <li>This website data database from database</li>
 <li>This website have Admin or user panel</li>
 <li>This website have Dashboard</li>
